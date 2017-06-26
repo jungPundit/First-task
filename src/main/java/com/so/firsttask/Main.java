@@ -5,10 +5,8 @@
  */
 package com.so.firsttask;
 
-/**
- *
- * @author Влад
- */
+
+
 public class Main {
 
     /**
