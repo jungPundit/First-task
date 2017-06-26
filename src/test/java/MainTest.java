@@ -8,10 +8,6 @@ import com.so.firsttask.Main;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-/**
- *
- * @author Влад
- */
 public class MainTest {
 
     public MainTest() {
